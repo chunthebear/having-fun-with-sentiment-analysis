@@ -8,7 +8,7 @@ Do sentiment analysis
 Create a database for it  
     by using csv  
     
-Clean the database (more to be done to clear similiar but not exactly the same strings)  
+Clean the database (more to be done to clear similiar strings that are not exactly the same)  
     by using Pandas  
     
 Visualize the data (to do)  
