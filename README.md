@@ -1,13 +1,13 @@
 # having-fun-with-sentiment-analysis
 Collect data from Twitter regarding Mark Zuckerberg's Congressional testimony  
-    by using Tweepy  
+    \tby using Tweepy  
 Do sentiment analysis  
-    by using TextBlob  
+    \tby using TextBlob  
 Create a database for it  
-    by using csv  
+    \tby using csv  
 Clean the database (more to be done to clear similiar but not exactly the same strings)  
-    by using Pandas  
+    \tby using Pandas  
 Visualize the data (to do)  
-    by using Matplotlib  
+    \tby using Matplotlib  
   
 YEH!
