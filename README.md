@@ -11,7 +11,7 @@ Create a database for it
 Clean the database (more to be done to clear similiar strings that are not exactly the same)  
     by using Pandas  
     
-Analyse the sentiment of data (*to do*)  
+Analyse the data (*to do*)  
     by using Pandas
     
 Visualize the data (*to do*)  
