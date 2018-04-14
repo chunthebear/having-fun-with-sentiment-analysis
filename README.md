@@ -11,11 +11,8 @@ Create a database for it
 Clean the database (more to be done to clear similiar strings that are not exactly the same)  
     by using Pandas  
     
-Analyse the data (*to do*)  
-    by using Pandas
+Analyse and Visualize the data  
+    by using Pandas and Matplotlib  
     
-Visualize the data (*to do*)  
-    by using Matplotlib  
     
-  
 YEH!
