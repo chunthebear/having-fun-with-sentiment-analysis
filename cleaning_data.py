@@ -1,4 +1,3 @@
-from difflib import SequenceMatcher
 import pandas as pd
 
 df = pd.read_csv('raw_data_sentiment_analysis.csv')
